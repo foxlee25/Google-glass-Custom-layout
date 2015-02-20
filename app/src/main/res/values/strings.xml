@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomCardView</string>
+    <string name="title_activity_main">Hello World custom card layout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world2">test word</string>
+    <string name="hello_world3">Test word size!</string>
+</resources>
